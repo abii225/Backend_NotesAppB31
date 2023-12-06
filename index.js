@@ -15,12 +15,14 @@ app.get("/",(req,res)=>{
 app.use("/users",userRouter);
 app.use("/notes",notesRouter);
 
-
+(async function (){
+    await connection
+          console.log("DB connected..")
+})();
 
 app.listen(8080,async()=>{
     try{
-          await connection
-          console.log("DB connected..")
+        
           console.log("server is running...http://localhost:8080")
     }catch(err){
         console.log(err);
