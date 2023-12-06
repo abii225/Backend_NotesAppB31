@@ -3,8 +3,11 @@ const app=express();
 const {connection}=require("./DB/db");
 const {userRouter}=require("./Controller/user.Route");
 const {notesRouter}=require("./Controller/note.Route");
-app.use(express.json());
+const cors=require("cors");
 
+
+app.use(express.json());
+app.use(cors);
 
 
 app.use("/users",userRouter);
