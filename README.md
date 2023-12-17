@@ -46,14 +46,14 @@ This is the homepage of our website where we describe our goal.
 #### Login Section :-
 Give your proper credential to get login.
 
-![Screenshot 2023-11-06 125948](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/72ccc7a8-572b-4b31-868b-cd1346e6b7db)
+![Screenshot 2023-11-06 125948](https://i.ibb.co/kgSrLW3/login.png)
 
 
 #### SignUp Section :-
 
 This is where you can give you details to register your account into our website.
 
-![Screenshot 2023-11-06 125953](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/95910d3e-93ba-4fba-af4b-dc931238015c)
+![Screenshot 2023-11-06 125953](https://i.ibb.co/8YfyNsJ/signup.png)
 
 
 #### About Page :-
@@ -64,75 +64,7 @@ You can get to know about our organiization.
 
 
 
-#### Volunteer Page :-
 
-You can see the Volunteers of the organization.
-
-![Screenshot 2023-11-06 125929](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/37147624-7e45-4ee9-b375-7a86e4a38d47)
-
-
-#### Contact Page :-
-
-You can get connect with us.
-
-![Screenshot 2023-11-06 125938](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/827c1b0a-3583-447f-a61b-9373aea78e57)
-
-#### Donate Us Page :-
-
-You can choose the fundraiser by Search and Filter method.
-
-![Screenshot 2023-11-06 125919](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/082a8dea-2fc7-4277-bc0e-e7d86ace7628)
-
-
-#### Single Donation Page :-
-
-This is the single donation page where you can get more details of the fundraiser and you can donate also.
-
-![Screenshot 2023-11-06 130817](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/05e68595-dacd-4a47-b220-e66f7a49444b)
-
-
-#### Payment Page  :-
-
-This is where you will do the payment for the donation after that you will receive a thankyou mail.
-
-![Screenshot 2023-11-07 102450](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/fe180cf0-b5f4-40e4-a0c4-1654155036c8)
-
-
-#### Fundraising Page  :-
-
-This access will be provided if he was a Volunteer, here he can add, edit or delete the donation he created.
-
-![Screenshot 2023-11-07 102532](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/0c49db7e-aa79-4096-895b-0d89c335144b)
-
-
-#### Forget Password Page  :-
-
-If you forget your password or want to reset your password, you can give your email, then you will receive a link to change your password.
-
-![Screenshot 2023-11-07 102626](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/d0b7509f-7cff-4a6a-88d7-c786158e6183)
-
-
-#### Reset Password Page  :-
-
-You can change your password.
-
-![Screenshot 2023-11-07 102651](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/862b53a9-b851-4b58-81dd-b74e28af2e3b)
-
-
-
-
-#### User Profile Page  :-
-
-You can view your profile here.
-
-![Screenshot 2023-11-07 102602](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/e4c8d9b8-c47c-46eb-b978-5d3898c278f5)
-
-
-#### Edit Profile  :-
-
-You can edit your profile here.
-
-![Screenshot 2023-11-07 102613](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/118332ea-144f-40e1-9038-33497bda3d6f)
 
 
 ### Admin Page:-
