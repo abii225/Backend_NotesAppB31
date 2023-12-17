@@ -23,23 +23,13 @@ This project was a collaborative undertaking completed within a five-day timefra
 
 **User Page**
 - Login & SignUp
-- Forget / Reset Password
-- Filter By Category
-- Search
-- Donation
-- Confirmation Mail
-- Volunteer Wall
-- Volunteer Access
-- Volunteer CRUD Operations
-- Payment
-- Edit Profile
-- Fully Responsive
+- Collection of recipes
+- Order ingredients
 
 **Admin Page**
 - Add, Edit & Delete Users
 - Viewing The Users Details
-- Add & Edit & Delete Donations
-- Making User As Volunteer And Admin
+- Add & Edit & Delete Recipes
 
 
 
@@ -50,7 +40,7 @@ This project was a collaborative undertaking completed within a five-day timefra
 #### Home Page :-
 This is the homepage of our website where we describe our goal.
 
-![Screenshot 2023-11-06 125856](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/6501f98f-e8e4-438d-9ba8-58d44ea991b6)
+![Screenshot 2023-11-06 125856](https://i.ibb.co/7RNHkPC/home.png)
 
 
 #### Login Section :-
