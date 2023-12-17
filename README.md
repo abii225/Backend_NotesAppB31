@@ -89,6 +89,8 @@ You can see all the recipe present in our site and you can also add recipe, dele
 
 If you have any Feedback, Please reach out to us at abhayv225@gmail.com
 
+## Team Lead
+- [Abhay V](https://github.com/abii225)
 
 ## Team
 
