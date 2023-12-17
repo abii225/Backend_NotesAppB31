@@ -73,7 +73,7 @@ You can get to know about our organiization.
 
 It shows graphs that are static. 
 
-![Screenshot 2023-11-07 102733](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/97755401-3a48-4a97-bfec-7e9c27e59fb4)
+![Screenshot 2023-11-07 102733](https://i.ibb.co/BCTcDSV/admin.png)
 
 
 #### User Page :-
@@ -83,18 +83,7 @@ You can see all the users present in the website .
 ![Screenshot 2023-11-07 102740](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/7d063eae-63c2-4619-b23c-07887999883f)
 
 
-#### Single User Page :-
 
-You can view the user profile and payment history. 
-
-![Screenshot 2023-11-07 102746](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/4c012985-6162-49b1-8265-ca14f1af2443)
-
-
-#### Edit User Profile :-
-
-Admin can edit user profile. 
-
-![Screenshot 2023-11-07 102750](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/1f8e074a-2d1b-42af-8374-39d6bb7f4454)
 
 
 #### Product Page :-
