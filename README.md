@@ -60,7 +60,7 @@ This is where you can give you details to register your account into our website
 
 You can get to know about our organiization.
 
-![Screenshot 2023-11-06 125905](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/00937fbe-23df-44fc-a058-6a218550a210)
+![Screenshot 2023-11-06 125905](https://i.ibb.co/Zcj0wWC/about.png)
 
 
 
