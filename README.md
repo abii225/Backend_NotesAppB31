@@ -71,38 +71,29 @@ You can get to know about our organiization.
 
 #### Dashboard :-
 
-It shows graphs that are static. 
+It shows graphs that are static for now , we are working on it. 
 
 ![Screenshot 2023-11-07 102733](https://i.ibb.co/BCTcDSV/admin.png)
 
 
-#### User Page :-
 
-You can see all the users present in the website . 
+#### Add and Edit Recipe :-
 
-![Screenshot 2023-11-07 102740](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/7d063eae-63c2-4619-b23c-07887999883f)
-
+You can see all the recipe present in our site and you can also add recipe, delete and edit as well.
 
 
-
-
-#### Product Page :-
-
-You can see all the donations present in our site and you can also add donationt, delete and edit as well.
-
-
-![Screenshot 2023-11-07 102803](https://github.com/PragatiS11/nippy-flavor-9468/assets/121331649/dde24bc1-7c0e-47d6-bec9-f93c4a8c6aba)
+![Screenshot 2023-11-07 102803](https://i.ibb.co/LvxFXJK/recipe.png)
 
 
 ## Feedback
 
-If you have any Feedback, Please reach out to us at jayachandran9629040900@gmail.com
+If you have any Feedback, Please reach out to us at abhayv225@gmail.com
 
 
 ## Team
 
 
-- [Jayachandran Ramu](https://github.com/JayachandranRamu)
-- [Blessmi K](https://github.com/kblessmi2001)
 - [Abhay V](https://github.com/abii225)
+- [Sanjay sahu](https://github.com/sanju01sahu)
+- [Khelsai]()
 
