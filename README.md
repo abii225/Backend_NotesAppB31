@@ -5,8 +5,9 @@
 
 
 
-# Be Charity
-Our project aims to raise funds for disadvantaged children in Africa. You can register an account, log in, and contribute to the cause. Additionally, you have the opportunity to volunteer and create your own fundraising efforts. This project was a collaborative undertaking completed within a five-day timeframe.
+# CookEase
+Welcome to CookEase, a culinary haven with a heart. Dive into a curated recipe collection, order ingredients to your door, and cook up a storm! 🍳✨ With each order, you're not just creating delicious meals but also supporting a cause. Volunteer, craft your recipes, and make a difference in every bite. Join our collaborative kitchen, where cooking meets compassion. Cook with purpose at CookEase – where every dish tells a tale of flavor and kindness. 🌟🍽️
+This project was a collaborative undertaking completed within a five-day timeframe.
 * User Page
 * Admin Page
 
